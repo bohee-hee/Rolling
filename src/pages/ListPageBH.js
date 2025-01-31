@@ -120,7 +120,7 @@ function ListPageBH() {
         <div className="create-button-container">
           <button
             className="create-button"
-            onClick={() => navigate("/post")}
+            onClick={() => navigate(/* 경민님 주소입력 */)}
           >
             나도 만들어보기
           </button>
