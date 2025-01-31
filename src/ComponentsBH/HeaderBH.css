@@ -22,6 +22,7 @@
   justify-content: space-between; /* 로고와 버튼 사이에 간격을 두고 */
   align-items: center; /* 세로 가운데 정렬 */
   max-width: 1207px; /* 최대 너비 설정 */
+  min-width: 272px; /* 최소 너비 설정 */
   width: 100%; /* 전체 화면을 차지하도록 */
   margin: 0 auto; /* 가로 중앙 정렬 */
   padding: 20px 40px; /* 위아래 20px, 좌우 40px */

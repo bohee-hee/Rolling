@@ -9,7 +9,7 @@ function HeaderBH() {
   return (
     <header className="header">
       <div className="header-container">
-        <div className="header-logo" onClick={() => navigate(/*성준님 주소입력*/)}>
+        <div className="header-logo" onClick={() => navigate("/")}>
           <img src={Logo} alt="Rolling Logo" className="logo-image" />
           <h1 className="logo-text">Rolling</h1>
         </div>
